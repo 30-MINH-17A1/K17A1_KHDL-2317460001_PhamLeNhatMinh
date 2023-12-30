@@ -1,0 +1,10 @@
+from ham_chuong8 import *
+find_max()
+giai_phuong_trinh_bac_nhat()
+tinh_gia_tri_tuyet_doi()
+tinh_A_B_C_D_E_F()
+tinh_tien_cuoc()
+tinh_dien_tich_tam_giac()
+dem_nguoc()
+kiem_tra_nam_nhuan()
+tinh_tien_dien()
